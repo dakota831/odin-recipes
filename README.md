@@ -1,1 +1,2 @@
 # odin-recipes
+This is a practice Git repository for an assignment from The Odin Project. The assignment involves creating a Recipe Browser application. The goal of this project is to build a web application that allows users to browse and search for recipes.
